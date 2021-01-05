@@ -23,4 +23,14 @@ az eventgrid event-subscription create \
   --name subToStorage \
   --endpoint $myEndpoint
   
-  
+az eventgrid event-subscription list
+az eventgrid event-subscription list --topic-type-name "Microsoft.Resources.Subscriptions" --location global
+az eventgrid event-subscription list --topic-type-name "Microsoft.Resources.ResourceGroups" --location global
+az eventgrid event-subscription list --resource-group myResourceGroup --location global
+
+az eventgrid event-subscription list --location westus2
+az eventgrid event-subscription list --topic-type-name "Microsoft.EventGrid.Topics" --location "westus2"
+az eventgrid event-subscription list --topic-type "Microsoft.Storage.StorageAccounts" --location westus2
+
+resourceid=$(az resource show -n mystorage -g myResourceGroup --resource-type "Microsoft.Storage/storageaccounts" --query id --output tsv)
+az eventgrid event-subscription list --resource-id $resourceid
