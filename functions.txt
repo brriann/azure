@@ -1,1 +1,3 @@
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function#create-a-function-app
+
+https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp
