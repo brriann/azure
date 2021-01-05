@@ -2,3 +2,25 @@ https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-
 https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt
 
 az login
+
+az account set --subscription $subIdOrName
+
+az group create --name $myResourceGRoup --location westus2
+
+az storage account create /
+  --name $myStorage \
+  --location westus2 \
+  --resource-group $myResourceGroup \
+  --sku Standard_LRS \
+  --kind BlobStorage \
+  --access-tier Hot
+  
+# Get the resource ID of the Blob storage account.
+storageid=$(az storage account show --name $storageName --resource-group $myResourceGroup --query id --output tsv)
+
+az eventgrid event-subscription create \
+  --source-resource-id $storageid \
+  --name subToStorage \
+  --endpoint $myEndpoint
+  
+  
