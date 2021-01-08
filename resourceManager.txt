@@ -1,1 +1,3 @@
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/move-resource-group-and-subscription
