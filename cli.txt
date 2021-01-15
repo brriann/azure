@@ -3,6 +3,8 @@ https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-linux?pivots=apt
 
 az login
 
+az account list --output table
+
 az account set --subscription $subIdOrName
 
 az group create --name $myResourceGRoup --location westus2
