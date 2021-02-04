@@ -2,3 +2,7 @@ https://docs.microsoft.com/en-us/azure/active-directory-b2c/
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-tenant
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/technical-overview
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/user-flow-overview
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/custom-policy-overview
+
