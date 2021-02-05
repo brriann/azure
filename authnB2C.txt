@@ -15,6 +15,12 @@ https://docs.microsoft.com/en-us/azure/active-directory-b2c/identity-provider-fa
 
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/user-flow-custom-attributes
 
+***CI/CD/AUTOMATION WITH AZURE AD B2C
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/microsoft-graph-operations
+
+
+
+
 https://github.com/AzureADQuickStarts/B2C-WebApp-OpenIDConnect-DotNet-SUSI
 https://docs.microsoft.com/en-us/azure/active-directory/external-identities
 
