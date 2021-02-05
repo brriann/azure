@@ -1,8 +1,16 @@
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/
-https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-tenant
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/technical-overview
-https://docs.microsoft.com/en-us/azure/active-directory/external-identities
+
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/user-flow-overview
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/custom-policy-overview
+
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-tenant
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-register-spa
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-user-flows
+
+https://github.com/AzureADQuickStarts/B2C-WebApp-OpenIDConnect-DotNet-SUSI
+
+https://docs.microsoft.com/en-us/azure/active-directory/external-identities
+
 
