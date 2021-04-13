@@ -1,0 +1,1 @@
+https://www.hanselman.com/blog/securing-an-azure-app-service-website-under-ssl-in-minutes-with-lets-encrypt
