@@ -1,0 +1,35 @@
+https://www.hanselman.com/blog/securing-an-azure-app-service-website-under-ssl-in-minutes-with-lets-encrypt
+
+https://docs.microsoft.com/en-us/azure/azure-functions/index
+https://docs.microsoft.com/en-us/azure/key-vault/general/security-overview
+https://docs.microsoft.com/en-us/azure/devops/repos/git/import-git-repository?view=azure-devops
+https://docs.microsoft.com/en-us/azure/event-grid/overview?WT.mc_id=Portal-HubsExtension
+https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-web-app-cache-aside-leaderboard
+https://medium.com/@antbutcher89/hosting-a-react-js-app-on-azure-blob-storage-azure-cdn-for-ssl-and-routing-8fdf4a48feeb
+AzureDevops > Project Settings > Service hooks
+https://medium.com/@stuarttottle/upload-to-azure-blob-storage-with-react-34f37805fdfc
+AzureDevops > Project Settings > XAML Build Services
+https://docs.microsoft.com/en-us/cli/azure/
+https://stackoverflow.com/questions/53888830/local-cloud-stack-for-azure-similar-to-localstack-for-aws
+https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns
+https://docs.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-app-design-patterns
+https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue
+https://docs.microsoft.com/en-us/azure/architecture/patterns/
+https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-integration-services/Azure-Integration-Services-Whitepaper-v1-0.pdf
+https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli
+https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
+https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-emulator-express-debug-run?view=vs-2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
