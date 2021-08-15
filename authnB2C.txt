@@ -1,3 +1,6 @@
+Create AADB2C Tenant
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-tenant?WT.mc_id=Portal-Microsoft_AAD_B2CAdmin
+
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/overview
 https://docs.microsoft.com/en-us/azure/active-directory-b2c/technical-overview
