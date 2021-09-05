@@ -1,0 +1,14 @@
+https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
+
+APIs
+https://docs.microsoft.com/en-us/azure/cosmos-db/choose-api
+
+Core API
+https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-cosmos-db-core-api/
+
+MongoDB
+https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb/mongodb-introduction
+
+Apache Cassandra
+
+Table API - for Azure Table Storage migration
