@@ -2,6 +2,9 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-az
 
 https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp
 
+Timer Trigger
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?tabs=csharp
+
 
 CQRS / Serverless
 https://medium.com/@richg0/serverless-cqrs-in-azure-p1-e0f2c423f071
