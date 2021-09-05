@@ -5,6 +5,11 @@ https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions
 Timer Trigger
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?tabs=csharp
 
+Twilio Binding
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio?tabs=csharp
+
+SendGrid Binding
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid?tabs=csharp
 
 CQRS / Serverless
 https://medium.com/@richg0/serverless-cqrs-in-azure-p1-e0f2c423f071
