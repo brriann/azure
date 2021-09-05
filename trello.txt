@@ -20,6 +20,11 @@ https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli
 https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview
 https://docs.microsoft.com/en-us/visualstudio/azure/vs-azure-tools-emulator-express-debug-run?view=vs-2019
 
+ARCH
+https://docs.microsoft.com/en-us/azure/architecture/
+https://docs.microsoft.com/en-us/azure/architecture/framework/
+
+
 
 
 
