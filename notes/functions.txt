@@ -2,6 +2,7 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-az
 
 https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp
 
+<<<<<<< Updated upstream:functions.txt
 Timer Trigger
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer?tabs=csharp
 
@@ -15,3 +16,7 @@ CQRS / Serverless
 https://medium.com/@richg0/serverless-cqrs-in-azure-p1-e0f2c423f071
 https://medium.com/contino-engineering/beginning-the-quest-for-serverless-cqrs-event-sourcing-8bfd5c9eb71e
 https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs
+=======
+
+
+>>>>>>> Stashed changes:notes/functions.txt
