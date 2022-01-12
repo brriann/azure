@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 public class Program
 {
-    private const string blobServiceEndpoint = "https://mediastorbfost.blob.core.windows.net/";
+    private const string blobServiceEndpoint = "https://asdf.blob.core.windows.net/";
 
-    private const string storageAccountName = "mediastorbfost";
+    private const string storageAccountName = "asdf";
 
-    private const string storageAccountKey = "tlFmQRilFqAUkEqv/1tTYugPiZBgu2nFC7KjT5SKQzQZyipXKx4hqr1ugjtwl4rrWKrvZ6CVFPVu3MfaP1NixA==";
+    private const string storageAccountKey = "accessKeyValue";
 
     public static async Task Main(string[] args)
     {
